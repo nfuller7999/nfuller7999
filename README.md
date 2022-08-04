@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nfuller7999
+- 👋 Hi, I’m Nathaniel Fuller
 - 👀 I’m interested in sports
-- 🌱 I’m currently majoring in Data Science at FL Poly
-- 📫 How to reach me nfuller7999@floridapoly.edu
+- 🌱 I’m recently graduated from Florida Polytechnic University with a bachelor of Science in Data Science
+- 📫 How to reach me nathaniel.fuller01@gmail.com
 
 <!---
 nfuller7999/nfuller7999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
